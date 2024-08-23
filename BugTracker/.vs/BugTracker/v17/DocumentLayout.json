@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\dao\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\dao\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\usergroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\usergroup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\viewmodel\\usergroupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\viewmodel\\usergroupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\viewmodel\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\viewmodel\\studentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\usergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\controllers\\usergroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\controllers\\usergroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\viewmodel\\libraryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725075403_intial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725075403_intial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725075403_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725075403_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725074713_initial to library.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725074713_initial to library.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725074713_initial to library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725074713_initial to library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725074542_intial-library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725074542_intial-library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725074059_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725074059_initial migration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725074059_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725074059_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\migrations\\20240725073503_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\migrations\\20240725073503_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\bugtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\bugtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\home\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\controllers\\bootstrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\controllers\\bootstrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\bootstrap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\bootstrap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\views\\bootstrap\\album.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\views\\bootstrap\\album.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|c:\\users\\dell\\desktop\\bug-tracker\\bugtracker\\bugtracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA03CC0-132A-4E7F-874E-FF6BC000DA1D}|BugTracker\\BugTracker.csproj|solutionrelative:bugtracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\UserGroup\\Index.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\UserGroup\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\UserGroup\\Index.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\UserGroup\\Index.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T09:38:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "BugTracker\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:08:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\DAO\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BugTracker\\DAO\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\DAO\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BugTracker\\DAO\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:56:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "BugTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\appsettings.json",
+              "RelativeToolTip": "BugTracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T09:39:54.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Program.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Program.cs",
+              "RelativeToolTip": "BugTracker\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:39:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Startup.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Startup.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Startup.cs",
+              "RelativeToolTip": "BugTracker\\Startup.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:48:16.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\Users.cs",
+              "RelativeToolTip": "BugTracker\\Models\\Users.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:51:52.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\UserGroupController.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Controllers\\UserGroupController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\UserGroupController.cs",
+              "RelativeToolTip": "BugTracker\\Controllers\\UserGroupController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAADgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:37:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserGroupVM.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\UserGroupVM.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\ViewModel\\UserGroupVM.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\UserGroupVM.cs",
+              "RelativeToolTip": "BugTracker\\Models\\ViewModel\\UserGroupVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:30:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\StudentVM.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\ViewModel\\StudentVM.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\StudentVM.cs",
+              "RelativeToolTip": "BugTracker\\Models\\ViewModel\\StudentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:33:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:09:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\UserGroup.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\UserGroup.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\UserGroup.cs",
+              "RelativeToolTip": "BugTracker\\Models\\UserGroup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:51:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240725074713_initial to library.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074713_initial to library.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725074713_initial to library.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074713_initial to library.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725074713_initial to library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:47:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\LibraryVM.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\ViewModel\\LibraryVM.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ViewModel\\LibraryVM.cs",
+              "RelativeToolTip": "BugTracker\\Models\\ViewModel\\LibraryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:44:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240725074713_initial to library.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074713_initial to library.Designer.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725074713_initial to library.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074713_initial to library.Designer.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725074713_initial to library.Designer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:49:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240725075403_intial migration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725075403_intial migration.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725075403_intial migration.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725075403_intial migration.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725075403_intial migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:54:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240725075403_intial migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725075403_intial migration.Designer.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725075403_intial migration.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725075403_intial migration.Designer.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725075403_intial migration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:54:35.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\Library.cs",
+              "RelativeToolTip": "BugTracker\\Models\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:35:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240725074542_intial-library.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074542_intial-library.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725074542_intial-library.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074542_intial-library.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725074542_intial-library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:45:42.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240725074059_initial migration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074059_initial migration.Designer.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725074059_initial migration.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074059_initial migration.Designer.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725074059_initial migration.Designer.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:42:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240725074059_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074059_initial migration.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725074059_initial migration.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725074059_initial migration.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725074059_initial migration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:40:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "BugTracker\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:37:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240725073503_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725073503_initial.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Migrations\\20240725073503_initial.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Migrations\\20240725073503_initial.cs",
+              "RelativeToolTip": "BugTracker\\Migrations\\20240725073503_initial.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:35:04.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADACAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T10:35:49.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T15:12:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Home\\Test.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Home\\Test.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Home\\Test.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Home\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T13:24:25.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BugTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:29:55.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.301\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-29T06:35:18.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BootstrapController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\BootstrapController.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Controllers\\BootstrapController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Controllers\\BootstrapController.cs",
+              "RelativeToolTip": "BugTracker\\Controllers\\BootstrapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:23:50.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Album.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Bootstrap\\Album.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Bootstrap\\Album.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Bootstrap\\Album.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Bootstrap\\Album.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:43:26.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "soft-ui-dashboard.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+              "RelativeDocumentMoniker": "BugTracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+              "RelativeToolTip": "BugTracker\\wwwroot\\assets\\css\\soft-ui-dashboard.css",
+              "ViewState": "AQIAAA4BAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T16:20:16.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Bootstrap\\Login.cshtml",
+              "RelativeDocumentMoniker": "BugTracker\\Views\\Bootstrap\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Views\\Bootstrap\\Login.cshtml",
+              "RelativeToolTip": "BugTracker\\Views\\Bootstrap\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T16:43:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "BugTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "BugTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAFEAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T16:20:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BugTracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BugTracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:59:43.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BugTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\BugTracker.csproj",
+              "RelativeDocumentMoniker": "BugTracker\\BugTracker.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Bug-tracker\\BugTracker\\BugTracker\\BugTracker.csproj",
+              "RelativeToolTip": "BugTracker\\BugTracker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T09:34:50.706Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:754250107:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

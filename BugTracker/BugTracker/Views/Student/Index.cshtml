@@ -1,0 +1,32 @@
+﻿
+@model List<BugTracker.Models.Student>
+
+
+
+<h1>welcome to student page</h1>
+
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Contact</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @{
+            foreach (Student item in Model)
+            {
+                <tr>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.ContactNo</td>
+                    <td>@item.Email</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

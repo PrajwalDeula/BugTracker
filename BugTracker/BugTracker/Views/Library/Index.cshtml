@@ -1,0 +1,81 @@
+﻿
+<div class="row">
+	<div class="col-md-8">
+		<div class="card">
+			<div class="card-body">
+		<table class="table table-hover table-stripped">
+			<thead>
+				<tr>
+					<th>Student ID</th>
+					<th>Student Name</th>
+					<th>Student Code</th>
+				</tr>
+			</thead>
+			<tbody class="body-content"></tbody>
+			<tfoot>
+				<tr>
+					<td><input type="text" class="txtStudentName form-control"></input></td>
+					<td><input type="text" class="txtStudentCode form-control"></input></td>
+					<td><button type="button" class="btn btn-primary btnAdd"><i class="fa fa-plus"></i>Add</button></td>
+				</tr>
+			</tfoot>
+		</table>
+			</div>
+			<div class="card-footer">
+				<button class="button btn btn-secondary btnSave"><i class="fa fa-save"></i> Save</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+@section Scripts{
+	<script>
+		$(document).on('click', '.btnAdd', function () {
+			var sname = $('.txtStudentName').val() || '';
+			var scode = $('.txtStudentCode').val() || '';
+
+			if(sname == ''){
+				alert('Enter the student name');
+			}
+			else if(scode == ''){
+				alert('Enter the student code');
+			}
+			else{
+				$.ajax({
+					url:'@Url.Action("Controller/LibraryController"),
+					
+
+					data:''
+					method:'get',
+					contentType:'appplication/json;charset=utf-8',
+					success:function(){
+						if (res.success) {
+							var htmls = '';
+							htmls += '<tr>';
+							htmls += '<td> <label class="lblStudentName">' + sname + '</label></td>';
+							htmls += '<td> <label class="lblStudentCode">' + scode + '</label></td>';
+							htmls += '<td> <button type="button" class="btn btn-danger btnRoRemove">''</button></td>';
+
+							$('.body-content').append(htmls);
+
+						}
+						else{
+							r
+						}
+
+					
+
+					}
+					
+				});
+
+			
+				
+			}
+
+		});
+	</script>
+}
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
